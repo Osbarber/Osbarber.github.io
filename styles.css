@@ -1,6 +1,6 @@
 @font-face {
         font-family: 'Cogncuredged'; 
-        src: url('https://github.com/Osbarber/Osbarber.github.io/blob/main/cogncuroblique.ttf') format('truetype'); /* Adjust path and format as needed */
+        src: url('cogncuredged.ttf') format('truetype');
         font-weight: normal;
         font-style: normal;
     }
