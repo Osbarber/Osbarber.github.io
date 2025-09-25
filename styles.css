@@ -5,16 +5,25 @@
         font-style: normal;
     }
 
+@font-face {
+        font-family: 'Rustic'; 
+        src: url('RusticRoadway.otf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
 body {
     background: red;
     font-family: 'GreatVibes';
 }
 h1 {
+    font-family: 'Rustic';
     color: rgb(0, 0, 0);
     text-align: center;
 }
 
 h2 {
+    font-family: 'Rustic';
     color: rgb(0, 0, 0);
     text-align: center;
 }
