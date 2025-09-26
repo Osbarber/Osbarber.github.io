@@ -1,20 +1,20 @@
 @font-face {
         font-family: 'GreatVibes'; 
-        src: url('GreatVibes-Regular.ttf') format('truetype');
+        src: url('Fonts/GreatVibes-Regular.ttf') format('truetype');
         font-weight: normal;
         font-style: normal;
     }
 
 @font-face {
         font-family: 'Rustic'; 
-        src: url('RusticRoadway.otf') format('truetype');
+        src: url('Fonts/RusticRoadway.otf') format('truetype');
         font-weight: normal;
         font-style: normal;
     }
 
 @font-face {
         font-family: 'Modernline'; 
-        src: url('modernline bold.otf') format('truetype');
+        src: url('Fonts/modernline bold.otf') format('truetype');
         font-weight: normal;
         font-style: normal;
     }
