@@ -36,8 +36,9 @@ h2 {
 }
 
 h3 {
+    font-family: 'Rustic';
     color: rgb(0, 0, 0);
-    text-align: center;    
+    text-align: center;
 }
 
 p {
