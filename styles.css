@@ -38,7 +38,7 @@ h2 {
 p {
     color: rgb(0, 0, 0);
     text-align: center;
-    wrap(str, {width: 60});
+    width: "60";
 }
 
 section {
