@@ -29,6 +29,7 @@ h1 {
     text-align: center;
     text-decoration-line: underline;
     text-decoration-color: black;
+    text-shadow: #ffcc00 1px 0 10px;
 }
 
 h2 {
