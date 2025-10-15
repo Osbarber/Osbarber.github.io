@@ -27,12 +27,14 @@ h1 {
     font-family: 'Modernline';
     color: rgb(0, 0, 0);
     text-align: center;
+    text-decoration-line: underline;
 }
 
 h2 {
     font-family: 'Rustic';
     color: rgb(0, 0, 0);
     text-align: center;
+    text-decoration-line: underline;
 }
 
 p {
