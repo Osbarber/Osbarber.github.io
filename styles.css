@@ -27,9 +27,7 @@ h1 {
     font-family: 'Modernline';
     color: rgb(0, 0, 0);
     text-align: center;
-    text-decoration-line: underline;
-    text-decoration-color: black;
-    text-shadow: #ffcc00 1px 0 10px;
+    text-shadow: #ffffff 1px 0 10px;
 }
 
 h2 {
@@ -41,7 +39,7 @@ h2 {
 }
 
 p {
-    font-family: 'Modernline';
+    font-family: 'Rustic';
     color: rgb(0, 0, 0);
     text-align: center;
     text-wrap: wrap;
