@@ -38,6 +38,14 @@ h2 {
     text-decoration-color: black;
 }
 
+h3 {
+    font-family: 'Rustic';
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: black;
+}
+
 p {
     font-family: 'Rustic';
     color: rgb(0, 0, 0);
