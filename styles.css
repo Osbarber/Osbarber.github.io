@@ -39,7 +39,7 @@ p {
     font-family: 'Modernline';
     color: rgb(0, 0, 0);
     text-align: center;
-    text-wrap: pretty;
+    text-wrap: wrap;
 }
 
 section {
