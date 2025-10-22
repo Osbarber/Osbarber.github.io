@@ -37,8 +37,8 @@ h1 {
 .project {
 width: 30%;
 margin: 10px;
-padding: 20px 10px;
-background: white; /* pick a color */
+padding: 20px 20px;
+background: lightblue; 
 border-radius: 25%;
 }
 
