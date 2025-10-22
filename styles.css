@@ -30,7 +30,10 @@ h1 {
     text-shadow: #ffffff 1px 0 10px;
 }
 
-.projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
+.projects { 
+    display:flex; 
+    flex-wrap:wrap; 
+}
 .project {
 width: 30%;
 margin: 10px;
