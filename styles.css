@@ -64,3 +64,9 @@ p {
     text-align: center;
     text-wrap: wrap;
 }
+
+section {
+    font-family: 'Rustic';
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
